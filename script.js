@@ -17,3 +17,12 @@ console.log("phoneNumber:" + phoneNumber);
 console.log("age:" + age);
 console.log("hobby:" + hobby);
 console.log("isStudent:" + isStudent);
+
+hobby = "playing basketball";
+age = 25 + 1;
+console.log("new hobby:" + hobby);
+console.log("new age:" + 26);
+
+// Used let and const
+// Code contains personal information
+// Boolean value "isStudent"
